@@ -5,7 +5,7 @@
 %define __find_provides %{_mingw32_findprovides}
 
 Name:           mingw32-libpng
-Version:        1.2.34
+Version:        1.2.35
 Release:        %mkrel 1
 Summary:        MinGW Windows Libpng library
 
