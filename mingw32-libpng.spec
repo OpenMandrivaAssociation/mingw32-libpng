@@ -6,7 +6,7 @@
 
 Name:           mingw32-libpng
 Version:        1.2.35
-Release:        %mkrel 1
+Release:        %mkrel 2
 Summary:        MinGW Windows Libpng library
 
 License:        zlib
