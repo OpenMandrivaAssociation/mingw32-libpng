@@ -10,7 +10,7 @@ Release:        %mkrel 3
 Summary:        MinGW Windows Libpng library
 
 License:        zlib
-URL:            http://www.libpng.org/pub/png/
+URL:            https://www.libpng.org/pub/png/
 Source0:        ftp://ftp.simplesystems.org/pub/png/src/libpng-%{version}.tar.bz2
 Patch0:         libpng-multilib.patch
 Patch1:         libpng-pngconf.patch
