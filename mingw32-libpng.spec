@@ -20,6 +20,7 @@ BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 BuildArch:      noarch
 
+BuildRequires:	make
 BuildRequires:  mingw32-filesystem >= 40
 BuildRequires:  mingw32-gcc
 BuildRequires:  mingw32-binutils
